@@ -2,7 +2,7 @@
 
 <div align="left">
   
-[![Caio top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caio-d&theme=pink-white)](https://github.com/anuraghazra/github-readme-stats)
+[![Caio top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caio-d)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
