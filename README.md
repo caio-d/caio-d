@@ -1,4 +1,4 @@
-### Olá! Meu nome é Caio Didoné 👋
+### olá! meu nome é Caio Didoné 👋
 
 <div align="left">
   
