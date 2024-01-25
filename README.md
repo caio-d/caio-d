@@ -1,13 +1,13 @@
 ### Oii! meu nome é Caio Didoné 👋
 
-<div style="overflow: auto;">
-  <div style="float: left; width: 50%;">
+<div>
+  <div>
     <p>Eu programo em Java e atualmente estou estudando Spring e Angular!</p>
     <p>Me dou muito bem com queries em SQL</p>
     <p>2 anos de Java 8 profissionalmente e agora buscando me atualizar!!</p>
   </div>
   
-  <div style="float: right; width: 50%;">
+  <div>
     
   [![Caio top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caio-d)](https://github.com/anuraghazra/github-readme-stats)
  
