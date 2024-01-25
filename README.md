@@ -1,14 +1,18 @@
 ### Oii! meu nome é Caio Didoné 👋
 
-<div align="right">
+<div style="overflow: auto;">
+  <div style="float: left; width: 50%;">
+    <p>Eu programo em Java e atualmente estou estudando Spring e Angular!</p>
+    <p>Me dou muito bem com queries em SQL</p>
+    <p>2 anos de Java 8 profissionalmente e agora buscando me atualizar!!</p>
+  </div>
   
-[![Caio top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caio-d)](https://github.com/anuraghazra/github-readme-stats)
-
+  <div style="float: right; width: 50%;">
+    
+  [![Caio top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caio-d)](https://github.com/anuraghazra/github-readme-stats)
+ 
+  </div>
 </div>
-
-Eu programo em java e atualmente estou estudando Spring e Angular!
-Me dou muito bem com querys em SQL
-2 anos de java 8 e agora buscando me atualizar!!
 
 <!--
 **caio-d/caio-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
