@@ -1,12 +1,12 @@
 ### Oii! meu nome é Caio Didoné 👋
 
-### Eu programo em java e atualmente estou estudando Spring e Angular!
-
 <div align="right">
-  
 [![Caio top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caio-d)](https://github.com/anuraghazra/github-readme-stats)
-  
 </div>
+
+Eu programo em java e atualmente estou estudando Spring e Angular!
+Me dou muito bem com querys em SQL
+2 anos de java 8 e agora buscando me atualizar!!
 
 <!--
 **caio-d/caio-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
