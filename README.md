@@ -2,7 +2,7 @@
 
 ### Eu programo em java e atualmente estou estudando Spring e Angular!
 
-<div align="center">
+<div align="right">
   
 [![Caio top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caio-d)](https://github.com/anuraghazra/github-readme-stats)
   
