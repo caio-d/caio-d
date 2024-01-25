@@ -1,7 +1,9 @@
 ### Oii! meu nome é Caio Didoné 👋
 
 <div align="right">
+  
 [![Caio top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caio-d)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 Eu programo em java e atualmente estou estudando Spring e Angular!
