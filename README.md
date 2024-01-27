@@ -9,7 +9,7 @@
 
 - Eu programo em Java e atualmente estou estudando Spring e Angular!
 - Atuei 2 anos profissionalmente com Java 8 e agora estou buscando me atualizar!!
-- Experiência com sistemas financeiros!
+- Experiência com sistemas ERPs e financeiros!
 - Me dou muito bem com querys SQL!
 
 <div align="left"/>
