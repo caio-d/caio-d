@@ -12,7 +12,7 @@
 - Experiência com sistemas ERP e financeiro!
 - Me dou muito bem com querys SQL!
 
-<div align="left"/>
+<div/>
 
   [![Caio top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caio-d)](https://github.com/anuraghazra/github-readme-stats)
  
