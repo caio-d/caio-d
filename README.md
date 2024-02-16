@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-didone/)](https://www.linkedin.com/in/caio-didone/)
 [![Gmail Badge](https://img.shields.io/badge/-caiodidone03@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiodidone03@gmail.com)](mailto:caiodidone03@gmail.com)
 
-(Java | Spring | Angular | Typescript | Javascript | HTML | CSS )
+( Java | Spring | Angular | Typescript | Javascript | HTML | CSS )
 
 ##
 
