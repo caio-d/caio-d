@@ -7,10 +7,10 @@
 
 ##
 
-- Eu programo em Java e atualmente estou estudando Spring e Angular!
-- Atuei 2 anos profissionalmente com Java 8 e agora estou buscando me atualizar!!
-- Experiência com sistemas ERP e financeiro!
-- Me dou muito bem com querys SQL!
+- Eu programo em Java e Javascript
+- Utilizo Spring e Angular
+- Experiência com sistemas ERP
+- Tenho vasto conhecimento sobre banco de dados -> mssql e postgresql
 
 <div/>
 
