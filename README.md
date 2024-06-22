@@ -7,10 +7,10 @@
 
 ##
 
-- Eu programo em Java e Javascript
-- Utilizo Spring e Angular
+- Eu programo em java e javascript
+- Utilizo spring e angular
 - Experiência com sistemas ERP
-- Tenho vasto conhecimento sobre banco de dados -> mssql e postgresql
+- Tenho sólidos conhecimentos sobre banco de dados -> mssql e postgresql
 
 <div/>
 
