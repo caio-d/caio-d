@@ -6,11 +6,6 @@
 ( Java | Spring | Angular | Typescript | Javascript | HTML | CSS )
 
 ##
-
-- Eu programo em java e javascript
-- Utilizo spring e angular
-- Experiência com sistemas ERP
-- Tenho sólidos conhecimentos sobre banco de dados -> mssql e postgresql
 <!--
 **caio-d/caio-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
